@@ -1,0 +1,31 @@
+article {
+    background-color: white;
+}
+
+body {
+    background-color: grey;
+}
+
+.money {
+    color: green;
+}
+
+.different_money {
+    color: grey;
+}
+
+button {
+    background-color: green;
+    width: 30%;
+    height: 100%;
+    font-style:italic;
+    font-size: large;
+}
+
+button:hover {
+    background-color: grey;
+}
+
+.changed {
+    font-size: larger;
+}
